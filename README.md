@@ -1,3 +1,4 @@
-Predicted Airline Fair using Diffrent Machine learning Models.Perforemd data analysis and Data Cleaning.
-Uses various Machine modes which include Random Forest,Decision Tree,KNN and calculated the accuracy of each models.
-We have also Hypertune Machine learning models which help to calculate the best accuracy of the models.
+Developed a machine learning model to predict airline ticket prices for domestic flights, enhancing travelers' decision-making with accurate price estimates.Developed a machine learning model to predict airline ticket prices for domestic flights, enhancing travelers' decision-making with accurate price estimates.
+Conducted comprehensive data preprocessing tasks, including data cleaning, feature engineering, and handling missing values, ensuring data quality and relevance.
+Utilized regression algorithms such as Linear Regression, Random Forest Regression, KNN and Decision Tree to build predictive models.
+Found Random Forest Hyperparameter having highest 77.79% Precision.
